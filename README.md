@@ -1,4 +1,4 @@
-「莫大毛筆字體」是基於[衡山毛筆フォント](https://opentype.jp/kouzanmouhitufont.htm)的開放原始碼中文字型。衡山毛筆字體是來自於日本Aoyagi Henryama 書法家，所創造出的書法字體，由衷的感謝。
+「莫大毛筆字體」是基於[衡山毛筆フォント](https://opentype.jp/kouzanmouhitufont.htm)的開放原始碼中文字型。衡山毛筆字體是來自於日本Aoyagi Henryama 書法家，所創造出的書法字體。
 
 ## 字體特色
 
@@ -40,11 +40,11 @@
 * 補的缺字，由於缺乏設計美感，所以效果差強人意，但是聊勝於無。
 * 目前是Beta公測版本，歡迎提供測試反饋，請直接反饋在GitHub的Issues中。
 * 「偏」字上面沿用日文寫法「戸」，沒有改成台灣用法「戶」，針對「戶」字有另外加字。
-* 歡迎一起來補字，如果你也有自己造字的話，更新到內海字體裡，請把ttf字型檔或把增加的字匯出成svg檔，透過email(weng.32002@gmail.com)給我，謝謝。
+* 歡迎一起來補字，如果您也有自己造字並且想更新到莫大毛筆字體裡，請把您的ttf字型檔或是把您增加的字匯出成svg檔，透過email(weng.32002@gmail.com)給我，謝謝。
 
 ## 著作權與授權
 
-* 本字型是基於 SIL Open Font License 1.1 改造かにさわ(twinklem_seto)所開發、發表的「[瀨戶字體](http://setofont.osdn.jp/)」字型。
+* 本字型是基於 SIL Open Font License 1.1 改造畫法家青柳衡山先生所開發、發表的「[衡山毛筆フォント](https://opentype.jp/kouzanmouhitufont.htm)」字型。
 * 本字型亦基於 SIL Open Font License 1.1 授權條款免費公開，關於授權合約的內容、免責事項等細節，請詳讀 License 文件。
     * 本字型可自由使用在印刷、影像、網路或任何媒體上，不限個人或商業使用。
     * 您可基於 SIL Open Font License 1.1 的規定再散佈或改造本字型。
