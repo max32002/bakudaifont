@@ -1,4 +1,4 @@
-「莫大毛筆字體」是基於[衡山毛筆フォント](https://opentype.jp/kouzanmouhitufont.htm)的開放原始碼中文字型。衡山毛筆字體是來自於日本Aoyagi Henryama 書法家，所創造出的書法字體。
+「莫大毛筆字體」是基於[衡山毛筆フォント](https://opentype.jp/kouzanmouhitufont.htm)的開放原始碼中文字型。衡山毛筆字體是來自於日本書法家青柳衡山。
 
 ## 字體特色
 
