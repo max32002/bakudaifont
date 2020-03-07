@@ -52,4 +52,5 @@
     
 ## 相關文章
 
-* https://max-everyday.com/2020/03/naikaifont/
+* 內海字體 (NaikaiFont) 
+https://max-everyday.com/2020/03/naikaifont/
