@@ -56,6 +56,8 @@
 
 * 內海字體 (NaikaiFont) 
 https://max-everyday.com/2020/03/naikaifont/
+* 莫大毛筆字體 (Bakudai)
+https://max-everyday.com/2020/03/bakudaifont/
 
 ## 相關影片
 * [MaxCodeReview] FontForge 補缺字：每 (莫大毛筆字體)
