@@ -6,6 +6,8 @@
 
 補齊台灣教育部列出的 4,808 個常用字，增加（和修改）168字如下：丢么乒乓俞渝俱值偷偺傻內剁剎剝勻吅叼吆吒吞吳呐呸咚唧唬唳唷啃啕啟啪喱喳喻嗡嗥嗦嗨嗯嘀嘟嘮噓噗噙噥噹嚎嚐囪垮埂塭夠妞姘姬娛婊嫘嬤孓尷巔巢弒彆彞彥徵惦愣懵戶戾拋揄揍揭摹攆晚暨曆术朵查榆檔櫥步歲歷殁每侮毗毽氖氫氯涉唰涮淚渴溉溫溼焊燴狀玨琍產甭盯瞇朧矓矽砸碉稅篡簞粵絕緣罈翱脫腳虛蜕蜢蜥蟑蟬說賒趴跺踩踫蹦塴磞躲鄉醣鈽銬銳錄鍊鎢鎳閱頹颳颼餿骷黃齜
 
+修改「朧」，右邊的龍字有誤，少了三筆劃，已使用其他有筆劃的龍來替代。俞渝偷喻，使用台灣常用的刂，而不是日本常用的《。
+
 ![莫大毛筆字體](https://github.com/max32002/bakudaifont/raw/master/preview/preview.png)
 
 ### 5種字重(Style)
@@ -54,3 +56,15 @@
 
 * 內海字體 (NaikaiFont) 
 https://max-everyday.com/2020/03/naikaifont/
+* 莫大毛筆字體 (Bakudai)
+https://max-everyday.com/2020/03/bakudaifont/
+
+## 相關影片
+* [MaxCodeReview] FontForge 補缺字：每 (莫大毛筆字體)
+https://youtu.be/gGk8b3mkueE
+* [MaxCodeReview] FontForge 補缺字：吳 (莫大毛筆字體)
+https://youtu.be/AvX97PFLYbM
+* [MaxCodeReview] FontForge 補缺字：孓 (莫大毛筆字體)
+https://youtu.be/_LXPhFE-VmM
+* [MaxCodeReview] FontForge 補缺字：頹 (莫大毛筆字體)
+https://youtu.be/4lFKWFG5FE4
