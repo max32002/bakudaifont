@@ -56,3 +56,13 @@
 
 * 內海字體 (NaikaiFont) 
 https://max-everyday.com/2020/03/naikaifont/
+
+## 相關影片
+* [MaxCodeReview] FontForge 補缺字：每 (莫大毛筆字體)
+https://youtu.be/gGk8b3mkueE
+* [MaxCodeReview] FontForge 補缺字：吳 (莫大毛筆字體)
+https://youtu.be/AvX97PFLYbM
+* [MaxCodeReview] FontForge 補缺字：孓 (莫大毛筆字體)
+https://youtu.be/_LXPhFE-VmM
+* [MaxCodeReview] FontForge 補缺字：頹 (莫大毛筆字體)
+https://youtu.be/4lFKWFG5FE4
