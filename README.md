@@ -68,3 +68,7 @@ https://youtu.be/AvX97PFLYbM
 https://youtu.be/_LXPhFE-VmM
 * [MaxCodeReview] FontForge 補缺字：頹 (莫大毛筆字體)
 https://youtu.be/4lFKWFG5FE4
+
+## 毛筆字的應用範例
+
+* 【故宮小劇場】跟著八段錦‧新‧洗武式 https://www.facebook.com/npmshops/posts/3311050418906629
