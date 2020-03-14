@@ -32,6 +32,11 @@
 
 衡山毛筆字體的全形標點符號針對日本做設計，調整為台灣常見的置中用法。半形的 backslash，調整為非日本地區用法。
 
+### 增加部分臺灣口語出現的中文字
+
+在原本的衡山毛筆字體架構下，莫大毛筆字體增加11字如下：喵呣哖唚啥嗍嗝尪䆀掰魩
+
+![莫大毛筆字體臺灣口語字](https://github.com/max32002/bakudaifont/raw/master/preview/preview_taiwaness.png)
 
 ## 下載字型
 
