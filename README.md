@@ -39,7 +39,7 @@
 ![莫大毛筆字體臺灣口語字](https://github.com/max32002/bakudaifont/raw/master/preview/preview_taiwaness.png)
 
 ### 增加部份的粵語字
-感謝網友scott luke的貢獻，在莫大毛筆字增加86字如下：㖭㗎乸佢冇冚冧劏叁叻吔吖呔咇咗哋唓唚唞啩啫啱啲啵喺喼嗰嗱嗲嘜嘞嘢嘥嘭噚嚿埗埲塱壆奀嫲嬅孭孻尐戙抆抌拃掹揞揤揼搣搲摙摱摷擝擸攰曱杧氹泵滘瀡烚煲燶甴癦睩瞓矋繑脷膶裇踭躀軚鈪餸𨋢
+感謝網友Luke Liu的貢獻，在莫大毛筆字增加88字如下：㖭㗎乸佢冇冚冧劏叁叻吔吖呔咇咗哋唓唚唞啩啫啱啲啵喺喼嗰嗱嗲嘜嘞嘢嘥嘭噚嚿埗埲塱壆奀嫲嬅孭孻尐戙抆抌拃掹揞揤揼搣搲摙摱摷擝擸攰曱杧氹泵滘瀡烚煲燶甴癦睩瞓矋繑脷膶裇踭躀軚鈪餸𨋢㋿踎
 
 ![莫大毛筆字體粵語字](https://github.com/max32002/bakudaifont/raw/master/preview/preview_hk.png)
 
