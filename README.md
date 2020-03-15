@@ -1,4 +1,4 @@
-「莫大毛筆字體」是基於[衡山毛筆フォント](https://opentype.jp/kouzanmouhitufont.htm)的開放原始碼中文字型。衡山毛筆字體是來自於日本書法家青柳衡山，目前字型內文字和符號字數在：14,188個。
+「莫大毛筆字體」是基於[衡山毛筆フォント](https://opentype.jp/kouzanmouhitufont.htm)的開放原始碼中文字型。衡山毛筆字體是來自於日本書法家青柳衡山，目前字型內文字和符號字數在：14,319個。
 
 ## 字體特色
 
@@ -37,6 +37,11 @@
 在原本的衡山毛筆字體架構下，莫大毛筆字體增加11字如下：喵呣哖唚啥嗍嗝尪䆀掰魩
 
 ![莫大毛筆字體臺灣口語字](https://github.com/max32002/bakudaifont/raw/master/preview/preview_taiwaness.png)
+
+### 增加部份的粵語字
+感謝網友scott luke的貢獻，在莫大毛筆字增加86字如下：㖭㗎乸佢冇冚冧劏叁叻吔吖呔咇咗哋唓唚唞啩啫啱啲啵喺喼嗰嗱嗲嘜嘞嘢嘥嘭噚嚿埗埲塱壆奀嫲嬅孭孻尐戙抆抌拃掹揞揤揼搣搲摙摱摷擝擸攰曱杧氹泵滘瀡烚煲燶甴癦睩瞓矋繑脷膶裇踭躀軚鈪餸𨋢
+
+![莫大毛筆字體粵語字](https://github.com/max32002/bakudaifont/raw/master/preview/preview_hk.png)
 
 ## 下載字型
 
