@@ -54,6 +54,21 @@
 
 請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」，或點進想下載的ttf字型檔案，再點「Download」的按鈕進行下載。
 
+
+## 使用 WebFont
+
+網路字型(Web Font)，用於網頁上的字型顯示，使用者的用戶端不需預先安裝字型檔，使用者一樣能夠看到特殊的字型效果。實現該功能的原理是在瀏覽時才下載字型檔是不現實的。
+
+可以服用下面的css:
+```
+@font-face {
+  font-family: bakudaifont-Regular;
+  src: url(https://github.com/max32002/bakudaifont/raw/master/webfont/Bakudai-Regular.woff2) format("woff2")
+  , url(https://github.com/max32002/bakudaifont/raw/master/webfont/Bakudai-Regular.woff) format("woff");
+}
+```
+當 woff2 上 Github 後，可透過以下方式從 CDN 中引入，可大幅加快網頁載入。jsDelivr 在速度上挺不錯的： www.cdnperf.com/#!performance,Asia 。
+
 ## 附註
 
 * 補的缺字，由於缺乏設計美感，所以效果差強人意，但是聊勝於無。
