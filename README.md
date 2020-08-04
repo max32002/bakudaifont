@@ -62,12 +62,12 @@
 可以服用下面的css:
 ```
 @font-face {
-  font-family: bakudaifont-Regular;
+  font-family: Bakudai-Regular;
   src: url(https://github.com/max32002/bakudaifont/raw/master/webfont/Bakudai-Regular.woff2) format("woff2")
   , url(https://github.com/max32002/bakudaifont/raw/master/webfont/Bakudai-Regular.woff) format("woff");
 }
 ```
-當 woff2 上 Github 後，可透過以下方式從 CDN 中引入，可大幅加快網頁載入。jsDelivr 在速度上挺不錯的： www.cdnperf.com/#!performance,Asia 。
+當 woff2 上 Github 後，也可透過以下方式從 CDN 中引入，上方的url置換成CDN快取的url後，將可大幅加快網頁載入。推薦使 jsDelivr 的服務，在速度上挺不錯的，參考看看： www.cdnperf.com/#!performance,Asia 。
 
 ## 附註
 
