@@ -87,6 +87,14 @@
     
 ## 相關文章
 
+* 獅尾腿圓 Swei.Gothic.Leg
+https://max-everyday.com/2020/08/swei-gothic-leg/
+* 獅尾彩虹腿 Swei.Rainbow.Leg
+https://max-everyday.com/2020/08/swei-rainbow-leg/
+* 花園肉丸
+https://max-everyday.com/2020/08/hana-meatball/
+* B2花園
+https://max-everyday.com/2020/08/b2-hana-font/
 * 獅尾XD珍珠 Swei.XD.Pearl
 https://max-everyday.com/2020/07/swei-xd-pearl/
 * 獅尾B2黑體 Swei B2 Sans
