@@ -83,21 +83,8 @@
     * 可自由傳布 可自由分享檔案、將檔案安裝於任何軟硬體中。
     * 可自由改作為其他字型 將字型檔案修改重製為其他字型檔案，改作後的字型檔案須同樣依 Open Font License 釋出。
 
-## 相關影片
-* [MaxCodeReview] FontForge 補缺字：每 (莫大毛筆字體)
-https://youtu.be/gGk8b3mkueE
-* [MaxCodeReview] FontForge 補缺字：吳 (莫大毛筆字體)
-https://youtu.be/AvX97PFLYbM
-* [MaxCodeReview] FontForge 補缺字：孓 (莫大毛筆字體)
-https://youtu.be/_LXPhFE-VmM
-* [MaxCodeReview] FontForge 補缺字：頹 (莫大毛筆字體)
-https://youtu.be/4lFKWFG5FE4
-
-## 毛筆字體的應用範例
-
-* 【故宮小劇場】跟著八段錦‧新‧洗武式 https://www.facebook.com/npmshops/posts/3311050418906629
-
-
+字體授權小提示：本字型採用 SIL Open Font License 1.1 授權發表，可以免費商用。在 github 上有附上 SIL Open Font License 1.1 的授權文件，如甲方或公司需要出示授權文件，直接使用此文件即可。
+    
 ## 相關網頁
 
 花園家族：
