@@ -63,8 +63,7 @@
 ```
 @font-face {
   font-family: Bakudai-Regular;
-  src: url(https://github.com/max32002/bakudaifont/raw/master/webfont/Bakudai-Regular.woff2) format("woff2")
-  , url(https://github.com/max32002/bakudaifont/raw/master/webfont/Bakudai-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/bakudaifont@1.47/webfont/Bakudai-Regular.woff2) format("woff2");
 }
 ```
 
